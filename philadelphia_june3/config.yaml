@@ -1,0 +1,138 @@
+#YAML Configuration
+
+# true future addition to runlen
+FUTURE: 30
+
+# path to input data
+EVENTLOG: './data.csv'
+
+# coordnames
+coord1: 'lat'
+coord2: 'lng'
+DATE: 'date'
+
+# LATITUDE_LIM
+LATITUDE_LIM:
+- 39.86
+- 40.14
+
+# Longitude limits
+LONGITUDE_LIM:
+- -75.3
+- -74.9
+
+# EPS lat and lon
+LATITUDE_EPS: 100
+LONGITUDE_EPS: 100
+
+
+# specify event lists
+VAR_LIST:
+- PROP:
+   col_name: 'text_general_code'
+   types:
+    - Thefts
+    - Vandalism/Criminal Mischief
+    - Theft from Vehicle
+    - All Other Offenses
+    - Motor Vehicle Theft
+    - Fraud
+    - Burglary Residential
+    - Burglary Non-Residential
+    - Receiving Stolen Property
+    - Arson
+    - Forgery and Counterfeiting
+    - Embezzlement
+    - Prostitution and Commercialized Vice
+   threshold: 0.01
+   csvname_prefix: 'PROP'
+- VIOL:
+   col_name: 'text_general_code'
+   types:
+    - Other Assaults
+    - Aggravated Assault No Firearm
+    - Aggravated Assault Firearm
+    - Robbery No Firearm
+    - Robbery Firearm
+    - Rape
+    - Homicide - Criminal
+    - Offenses Against Family and Children
+    - Homicide - Justifiable
+    - Homicide - Gross Negligence
+   threshold: 0.01
+   csvname_prefix: 'VIOL'
+- NARCO:
+   col_name: 'text_general_code'
+   types:
+    - Narcotic / Drug Law Violations
+    - Public Drunkenness
+    - Liquor Law Violations
+   threshold: 0.01
+   csvname_prefix: 'NARCO'
+
+
+# triplet dirname
+triplet_dir: './triplet'
+split_dir: './split'
+
+# dates
+train_init_date: '2020-01-01'
+train_end_date: '2024-05-28'
+freq: 'D'
+oos_end: '2024-05-30'
+
+# xgenesses run parameters (these are not hyperparameters, Beg is 0, End is whatever tempral memory is)
+END: 30
+BEG: 0
+
+# number of restarts (20 is good)
+NUM: 2
+
+# partition sequence (we can specify different partition for each time series. XgenESeSS already has this capability)
+PARTITION:
+- 0.5
+
+DERIVATIVE: 0
+
+# number of models to use in prediction (using cynet binary)
+model_nums:
+- 15
+
+# prediction horizons to test in unit of temporal quantization (using cynet binary)
+horizons:
+- 4
+
+# path to models
+MODELDIR: './models/'
+
+# number of processors to use for post process models
+NUMPROC: 28
+
+# XgenEseSS path
+XgenESeSS: './bin/XgenESeSS'
+
+# runlocally
+RUN_LOCAL: False
+
+# respath
+MODEL_RESPATH_SUFFIX: 'res'
+RESPATH: 'res_all.csv'
+
+# simfile
+SIMPATH: 'sim.csv'
+
+# tpr threshold
+TPR_TH: 0.85
+
+# prediction dir
+PREDICTIONDIR: './predictions/'
+
+# output dir
+OUTPUTDIR: './output'
+
+# movies dir
+MOVIESDIR: './movies/'
+
+# this cannot be too small. 50 is ok, but too small makes the threshold estimation not work See FAQ Issue MAY172024
+MINIMUM_FLEX_TAIL_LEN: 100
+

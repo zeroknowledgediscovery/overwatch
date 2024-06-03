@@ -1,0 +1,6002 @@
+[
+  {
+    "prediction": {
+      "lat": 39.9228,
+      "lon": -75.169,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028147218561988636
+  },
+  {
+    "prediction": {
+      "lat": 39.9228,
+      "lon": -75.168,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028405251412848198
+  },
+  {
+    "prediction": {
+      "lat": 39.9228,
+      "lon": -75.167,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028593385707253076
+  },
+  {
+    "prediction": {
+      "lat": 39.9238,
+      "lon": -75.16,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029420473568242747
+  },
+  {
+    "prediction": {
+      "lat": 39.9238,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028769557045171317
+  },
+  {
+    "prediction": {
+      "lat": 39.9288,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002439436484699136
+  },
+  {
+    "prediction": {
+      "lat": 39.9318,
+      "lon": -75.228,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012341789162203674
+  },
+  {
+    "prediction": {
+      "lat": 39.9318,
+      "lon": -75.226,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012697420155629894
+  },
+  {
+    "prediction": {
+      "lat": 39.9258,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030488978559575866
+  },
+  {
+    "prediction": {
+      "lat": 39.9308,
+      "lon": -75.149,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031781347363785076
+  },
+  {
+    "prediction": {
+      "lat": 39.9288,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002565465090418116
+  },
+  {
+    "prediction": {
+      "lat": 39.9248,
+      "lon": -75.157,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029673382558377567
+  },
+  {
+    "prediction": {
+      "lat": 39.9298,
+      "lon": -75.182,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002342028582675365
+  },
+  {
+    "prediction": {
+      "lat": 39.9288,
+      "lon": -75.177,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028810235908393253
+  },
+  {
+    "prediction": {
+      "lat": 39.9248,
+      "lon": -75.169,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003043850124458934
+  },
+  {
+    "prediction": {
+      "lat": 39.9248,
+      "lon": -75.168,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003067051993456843
+  },
+  {
+    "prediction": {
+      "lat": 39.9248,
+      "lon": -75.167,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030842085872188614
+  },
+  {
+    "prediction": {
+      "lat": 39.9248,
+      "lon": -75.16,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003060092852649276
+  },
+  {
+    "prediction": {
+      "lat": 39.9318,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031777234800666066
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.224,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012799360263804995
+  },
+  {
+    "prediction": {
+      "lat": 39.9258,
+      "lon": -75.168,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031518260327688123
+  },
+  {
+    "prediction": {
+      "lat": 39.9258,
+      "lon": -75.167,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031680773863639014
+  },
+  {
+    "prediction": {
+      "lat": 39.9258,
+      "lon": -75.16,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003162005400110058
+  },
+  {
+    "prediction": {
+      "lat": 39.9268,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031625557417776697
+  },
+  {
+    "prediction": {
+      "lat": 39.9338,
+      "lon": -75.223,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012666957857612646
+  },
+  {
+    "prediction": {
+      "lat": 39.9298,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026015166306159855
+  },
+  {
+    "prediction": {
+      "lat": 39.9298,
+      "lon": -75.177,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002910859115858503
+  },
+  {
+    "prediction": {
+      "lat": 39.9308,
+      "lon": -75.176,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002998041942182843
+  },
+  {
+    "prediction": {
+      "lat": 39.9268,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032175596903979767
+  },
+  {
+    "prediction": {
+      "lat": 39.9318,
+      "lon": -75.151,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034322869970375
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.228,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012562380394291874
+  },
+  {
+    "prediction": {
+      "lat": 39.9348,
+      "lon": -75.222,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012308356889274231
+  },
+  {
+    "prediction": {
+      "lat": 39.9308,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024969642936207266
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.179,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002716418905776193
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.176,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029609236196211156
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.151,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003512757058503752
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003271923326922337
+  },
+  {
+    "prediction": {
+      "lat": 39.9338,
+      "lon": -75.146,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031048513316106353
+  },
+  {
+    "prediction": {
+      "lat": 39.9348,
+      "lon": -75.228,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012681403139504536
+  },
+  {
+    "prediction": {
+      "lat": 39.9358,
+      "lon": -75.224,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012806596985208709
+  },
+  {
+    "prediction": {
+      "lat": 39.9378,
+      "lon": -75.176,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026532190958661116
+  },
+  {
+    "prediction": {
+      "lat": 39.9378,
+      "lon": -75.174,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027292641829409466
+  },
+  {
+    "prediction": {
+      "lat": 39.9358,
+      "lon": -75.151,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003688597636326587
+  },
+  {
+    "prediction": {
+      "lat": 39.9358,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034847995916725484
+  },
+  {
+    "prediction": {
+      "lat": 39.9358,
+      "lon": -75.146,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003240166576721101
+  },
+  {
+    "prediction": {
+      "lat": 39.9358,
+      "lon": -75.226,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012938898855977007
+  },
+  {
+    "prediction": {
+      "lat": 39.9318,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026228584382438406
+  },
+  {
+    "prediction": {
+      "lat": 39.9388,
+      "lon": -75.176,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002574626523316888
+  },
+  {
+    "prediction": {
+      "lat": 39.9388,
+      "lon": -75.174,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00264817332580186
+  },
+  {
+    "prediction": {
+      "lat": 39.9368,
+      "lon": -75.15,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036853187473489635
+  },
+  {
+    "prediction": {
+      "lat": 39.9378,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035685568148700587
+  },
+  {
+    "prediction": {
+      "lat": 39.9368,
+      "lon": -75.146,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032897409637884477
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003580613172019759
+  },
+  {
+    "prediction": {
+      "lat": 39.9378,
+      "lon": -75.149,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003654993274429598
+  },
+  {
+    "prediction": {
+      "lat": 39.9438,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035694684572223035
+  },
+  {
+    "prediction": {
+      "lat": 39.9378,
+      "lon": -75.147,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003458852282495039
+  },
+  {
+    "prediction": {
+      "lat": 39.9518,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016864832073703966
+  },
+  {
+    "prediction": {
+      "lat": 39.9498,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003443222292057249
+  },
+  {
+    "prediction": {
+      "lat": 39.9458,
+      "lon": -75.15,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003666835655089122
+  },
+  {
+    "prediction": {
+      "lat": 39.9448,
+      "lon": -75.147,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034237665705521983
+  },
+  {
+    "prediction": {
+      "lat": 39.9528,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001580921847079414
+  },
+  {
+    "prediction": {
+      "lat": 39.9468,
+      "lon": -75.15,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036289040672950923
+  },
+  {
+    "prediction": {
+      "lat": 39.9468,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034564857685617143
+  },
+  {
+    "prediction": {
+      "lat": 39.9468,
+      "lon": -75.147,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0033381137370039663
+  },
+  {
+    "prediction": {
+      "lat": 39.9598,
+      "lon": -75.23,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0009183132340495723
+  },
+  {
+    "prediction": {
+      "lat": 39.9598,
+      "lon": -75.229,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0009200850652421455
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.178,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0017694714111273896
+  },
+  {
+    "prediction": {
+      "lat": 39.9518,
+      "lon": -75.159,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003367868926349144
+  },
+  {
+    "prediction": {
+      "lat": 39.9498,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035665141281847764
+  },
+  {
+    "prediction": {
+      "lat": 39.9508,
+      "lon": -75.154,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035906795153470036
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.148,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0033533885973958816
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.147,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032322903608175578
+  },
+  {
+    "prediction": {
+      "lat": 39.9528,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016565726569849472
+  },
+  {
+    "prediction": {
+      "lat": 39.9528,
+      "lon": -75.159,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00336924807267549
+  },
+  {
+    "prediction": {
+      "lat": 39.9528,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003511800351603545
+  },
+  {
+    "prediction": {
+      "lat": 39.9528,
+      "lon": -75.154,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003522884593179257
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0015485059789160152
+  },
+  {
+    "prediction": {
+      "lat": 39.9548,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0015914888867502523
+  },
+  {
+    "prediction": {
+      "lat": 39.9548,
+      "lon": -75.178,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0017401655648992226
+  },
+  {
+    "prediction": {
+      "lat": 39.9618,
+      "lon": -75.165,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029393462256223474
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034251566532818418
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003490737488587956
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.155,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034981485950785593
+  },
+  {
+    "prediction": {
+      "lat": 39.9618,
+      "lon": -75.164,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030405319535094094
+  },
+  {
+    "prediction": {
+      "lat": 39.9668,
+      "lon": -75.139,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002518468487300553
+  },
+  {
+    "prediction": {
+      "lat": 39.9668,
+      "lon": -75.137,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024540478825740195
+  },
+  {
+    "prediction": {
+      "lat": 39.9608,
+      "lon": -75.23,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.000913037361165767
+  },
+  {
+    "prediction": {
+      "lat": 39.9608,
+      "lon": -75.229,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0009144069785248244
+  },
+  {
+    "prediction": {
+      "lat": 39.9628,
+      "lon": -75.163,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031341412067582533
+  },
+  {
+    "prediction": {
+      "lat": 39.9618,
+      "lon": -75.23,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0009009962508185005
+  },
+  {
+    "prediction": {
+      "lat": 39.9618,
+      "lon": -75.229,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0009020446635779334
+  },
+  {
+    "prediction": {
+      "lat": 39.9628,
+      "lon": -75.165,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029413884405198438
+  },
+  {
+    "prediction": {
+      "lat": 39.9638,
+      "lon": -75.164,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003042899156332859
+  },
+  {
+    "prediction": {
+      "lat": 39.9638,
+      "lon": -75.163,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003133952089365821
+  },
+  {
+    "prediction": {
+      "lat": 39.9698,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003228775113448111
+  },
+  {
+    "prediction": {
+      "lat": 39.9698,
+      "lon": -75.141,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002623715378174617
+  },
+  {
+    "prediction": {
+      "lat": 39.9678,
+      "lon": -75.135,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024246972674117494
+  },
+  {
+    "prediction": {
+      "lat": 39.9688,
+      "lon": -75.16,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032467727127253134
+  },
+  {
+    "prediction": {
+      "lat": 39.9688,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032862861266291384
+  },
+  {
+    "prediction": {
+      "lat": 39.9708,
+      "lon": -75.13,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0021600025011172916
+  },
+  {
+    "prediction": {
+      "lat": 39.9708,
+      "lon": -75.163,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029987867919291596
+  },
+  {
+    "prediction": {
+      "lat": 39.9688,
+      "lon": -75.14,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026036852593716814
+  },
+  {
+    "prediction": {
+      "lat": 39.9688,
+      "lon": -75.136,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002507200972515205
+  },
+  {
+    "prediction": {
+      "lat": 39.9698,
+      "lon": -75.133,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002385806377464574
+  },
+  {
+    "prediction": {
+      "lat": 39.9718,
+      "lon": -75.129,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002059155085178713
+  },
+  {
+    "prediction": {
+      "lat": 39.9828,
+      "lon": -75.177,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0020303494762324956
+  },
+  {
+    "prediction": {
+      "lat": 39.9718,
+      "lon": -75.163,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029544968360902604
+  },
+  {
+    "prediction": {
+      "lat": 39.9718,
+      "lon": -75.16,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003115991587649406
+  },
+  {
+    "prediction": {
+      "lat": 39.9718,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003128204033668931
+  },
+  {
+    "prediction": {
+      "lat": 39.9728,
+      "lon": -75.154,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002994868282291834
+  },
+  {
+    "prediction": {
+      "lat": 39.9708,
+      "lon": -75.14,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025999073094912276
+  },
+  {
+    "prediction": {
+      "lat": 39.9708,
+      "lon": -75.136,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025305697294775377
+  },
+  {
+    "prediction": {
+      "lat": 39.9718,
+      "lon": -75.132,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002322145140569456
+  },
+  {
+    "prediction": {
+      "lat": 39.9828,
+      "lon": -75.176,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0020917085342293472
+  },
+  {
+    "prediction": {
+      "lat": 39.9828,
+      "lon": -75.175,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0021448585857950435
+  },
+  {
+    "prediction": {
+      "lat": 39.9738,
+      "lon": -75.159,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00300419198728644
+  },
+  {
+    "prediction": {
+      "lat": 39.9748,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002898435502822879
+  },
+  {
+    "prediction": {
+      "lat": 39.9748,
+      "lon": -75.153,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002786762703881245
+  },
+  {
+    "prediction": {
+      "lat": 39.9718,
+      "lon": -75.133,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023867939249189014
+  },
+  {
+    "prediction": {
+      "lat": 39.9748,
+      "lon": -75.132,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002186384397154998
+  },
+  {
+    "prediction": {
+      "lat": 39.9748,
+      "lon": -75.129,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0019528958286399117
+  },
+  {
+    "prediction": {
+      "lat": 39.9748,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029265594123515145
+  },
+  {
+    "prediction": {
+      "lat": 39.9758,
+      "lon": -75.157,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028241278554906493
+  },
+  {
+    "prediction": {
+      "lat": 39.9768,
+      "lon": -75.155,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026687878451422333
+  },
+  {
+    "prediction": {
+      "lat": 39.9768,
+      "lon": -75.153,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002585763803966117
+  },
+  {
+    "prediction": {
+      "lat": 39.9758,
+      "lon": -75.131,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0020429791336839856
+  },
+  {
+    "prediction": {
+      "lat": 39.9758,
+      "lon": -75.129,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0018851857598319497
+  },
+  {
+    "prediction": {
+      "lat": 39.9838,
+      "lon": -75.174,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002264442231097268
+  },
+  {
+    "prediction": {
+      "lat": 39.9888,
+      "lon": -75.098,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002290708931260383
+  },
+  {
+    "prediction": {
+      "lat": 39.9848,
+      "lon": -75.173,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002365382771094642
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.183,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024872952795402217
+  },
+  {
+    "prediction": {
+      "lat": 39.9858,
+      "lon": -75.175,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002397367298595844
+  },
+  {
+    "prediction": {
+      "lat": 39.9858,
+      "lon": -75.173,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002440723844625054
+  },
+  {
+    "prediction": {
+      "lat": 39.9888,
+      "lon": -75.096,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023218645257642202
+  },
+  {
+    "prediction": {
+      "lat": 39.9888,
+      "lon": -75.095,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002308116406516883
+  },
+  {
+    "prediction": {
+      "lat": 39.9898,
+      "lon": -75.093,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023320781238228188
+  },
+  {
+    "prediction": {
+      "lat": 39.9908,
+      "lon": -75.092,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023489673761665484
+  },
+  {
+    "prediction": {
+      "lat": 39.9928,
+      "lon": -75.09,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0022644331505772327
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002694843022041164
+  },
+  {
+    "prediction": {
+      "lat": 39.9978,
+      "lon": -75.169,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031384001337737577
+  },
+  {
+    "prediction": {
+      "lat": 39.9988,
+      "lon": -75.168,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003127249355097399
+  },
+  {
+    "prediction": {
+      "lat": 40.0018,
+      "lon": -75.155,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002791841169815804
+  },
+  {
+    "prediction": {
+      "lat": 40.0018,
+      "lon": -75.152,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002600094076762301
+  },
+  {
+    "prediction": {
+      "lat": 40.0018,
+      "lon": -75.151,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025148847285426583
+  },
+  {
+    "prediction": {
+      "lat": 39.9998,
+      "lon": -75.102,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027439771678769496
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.098,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026357629765878846
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.096,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002651154487971996
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.092,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002427373207053711
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.184,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002491596600269657
+  },
+  {
+    "prediction": {
+      "lat": 39.9948,
+      "lon": -75.183,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002548255428748503
+  },
+  {
+    "prediction": {
+      "lat": 39.9948,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027518180557483266
+  },
+  {
+    "prediction": {
+      "lat": 39.9978,
+      "lon": -75.172,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003206009619950997
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.15,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024621035380883454
+  },
+  {
+    "prediction": {
+      "lat": 40.0008,
+      "lon": -75.103,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026323075508590875
+  },
+  {
+    "prediction": {
+      "lat": 39.9928,
+      "lon": -75.098,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027262942869295185
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.096,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002803147544755736
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.092,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025422980620862855
+  },
+  {
+    "prediction": {
+      "lat": 39.9968,
+      "lon": -75.183,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026454034885080298
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00279914874361882
+  },
+  {
+    "prediction": {
+      "lat": 39.9988,
+      "lon": -75.173,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032157018658184426
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.104,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024607297477949926
+  },
+  {
+    "prediction": {
+      "lat": 39.9998,
+      "lon": -75.101,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002821970820162814
+  },
+  {
+    "prediction": {
+      "lat": 40.0078,
+      "lon": -75.195,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001990280567351811
+  },
+  {
+    "prediction": {
+      "lat": 39.9998,
+      "lon": -75.173,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003204719341119505
+  },
+  {
+    "prediction": {
+      "lat": 39.9998,
+      "lon": -75.172,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032047274950885293
+  },
+  {
+    "prediction": {
+      "lat": 39.9998,
+      "lon": -75.168,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003136286109740422
+  },
+  {
+    "prediction": {
+      "lat": 40.0038,
+      "lon": -75.157,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029001017633371157
+  },
+  {
+    "prediction": {
+      "lat": 40.0048,
+      "lon": -75.149,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002388029430594709
+  },
+  {
+    "prediction": {
+      "lat": 40.0018,
+      "lon": -75.099,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028388038003334675
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.091,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024310904505759835
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.196,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001913166665242728
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.173,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030771238306419252
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.172,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030818330662958754
+  },
+  {
+    "prediction": {
+      "lat": 40.0018,
+      "lon": -75.169,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031176549366268326
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028652909740020235
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.152,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002641088676095242
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.1,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027556551357728197
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.099,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027812320452028022
+  },
+  {
+    "prediction": {
+      "lat": 40.0098,
+      "lon": -75.19,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002365493788026602
+  },
+  {
+    "prediction": {
+      "lat": 40.0038,
+      "lon": -75.173,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030049569380208047
+  },
+  {
+    "prediction": {
+      "lat": 40.0048,
+      "lon": -75.172,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029244750733754816
+  },
+  {
+    "prediction": {
+      "lat": 40.0038,
+      "lon": -75.171,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030110496151361608
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.158,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028480718060894705
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002819041601829315
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.152,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026386366343985825
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.149,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023745809135152945
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.126,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0013557148914442013
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0013924017329261418
+  },
+  {
+    "prediction": {
+      "lat": 40.0038,
+      "lon": -75.104,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024108258531267933
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.103,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002363563087439461
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.1,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025258661121130848
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.099,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002547143652601288
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.081,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003177260107358055
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.057,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024094490410276836
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.192,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0022554292863648344
+  },
+  {
+    "prediction": {
+      "lat": 40.0068,
+      "lon": -75.156,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027586149253038704
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.152,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002443496352982285
+  },
+  {
+    "prediction": {
+      "lat": 40.0078,
+      "lon": -75.149,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0022889339429138116
+  },
+  {
+    "prediction": {
+      "lat": 40.0068,
+      "lon": -75.1,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024336438309436876
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.082,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003128577374783754
+  },
+  {
+    "prediction": {
+      "lat": 40.0108,
+      "lon": -75.196,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0019225627717261897
+  },
+  {
+    "prediction": {
+      "lat": 40.0108,
+      "lon": -75.192,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002249404897096484
+  },
+  {
+    "prediction": {
+      "lat": 40.0108,
+      "lon": -75.19,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002350946050822837
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.153,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024942700686455556
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.15,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023051212563431614
+  },
+  {
+    "prediction": {
+      "lat": 40.0068,
+      "lon": -75.101,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002397208806433978
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.079,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003372039744999456
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026110732403291817
+  },
+  {
+    "prediction": {
+      "lat": 40.0128,
+      "lon": -75.194,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0020604559189681183
+  },
+  {
+    "prediction": {
+      "lat": 40.0128,
+      "lon": -75.192,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002198660955266029
+  },
+  {
+    "prediction": {
+      "lat": 40.0128,
+      "lon": -75.191,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0022514706256154785
+  },
+  {
+    "prediction": {
+      "lat": 40.0118,
+      "lon": -75.19,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023267886506540183
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.084,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031004060009257274
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.077,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003492083490413605
+  },
+  {
+    "prediction": {
+      "lat": 40.0208,
+      "lon": -75.076,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003574274239916055
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.055,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024725549235214603
+  },
+  {
+    "prediction": {
+      "lat": 40.0118,
+      "lon": -75.195,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0020034138344478224
+  },
+  {
+    "prediction": {
+      "lat": 40.0238,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0017043767004141658
+  },
+  {
+    "prediction": {
+      "lat": 40.0238,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0017353274851698707
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.179,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016210870541622656
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.126,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001458715983992197
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0014992670088038568
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.107,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001867354534760285
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.084,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032016090135928814
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.08,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003477978955730784
+  },
+  {
+    "prediction": {
+      "lat": 40.0218,
+      "lon": -75.075,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036181880858824392
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002741430242951717
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002652437164504514
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.055,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002610848017791288
+  },
+  {
+    "prediction": {
+      "lat": 40.0288,
+      "lon": -75.033,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003257204889433773
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.116,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026195944737208983
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.105,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0017397351224896784
+  },
+  {
+    "prediction": {
+      "lat": 40.0208,
+      "lon": -75.083,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003387926864441782
+  },
+  {
+    "prediction": {
+      "lat": 40.0228,
+      "lon": -75.08,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0037206050994755303
+  },
+  {
+    "prediction": {
+      "lat": 40.0228,
+      "lon": -75.076,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0037194402647213465
+  },
+  {
+    "prediction": {
+      "lat": 40.0228,
+      "lon": -75.075,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036773723837950534
+  },
+  {
+    "prediction": {
+      "lat": 40.0218,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002959043294275354
+  },
+  {
+    "prediction": {
+      "lat": 40.0218,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028896349866516123
+  },
+  {
+    "prediction": {
+      "lat": 40.0208,
+      "lon": -75.055,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002739106219271199
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016889325395052074
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016600688657773762
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.129,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025735662695725043
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.128,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026154027109939445
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.126,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027848108047197765
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.085,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027386715463990543
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.082,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036292097921042372
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.08,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003751607946054189
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.076,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003751983542912611
+  },
+  {
+    "prediction": {
+      "lat": 40.0248,
+      "lon": -75.075,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0037104641972551438
+  },
+  {
+    "prediction": {
+      "lat": 40.0268,
+      "lon": -75.058,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031982648279484487
+  },
+  {
+    "prediction": {
+      "lat": 40.0268,
+      "lon": -75.057,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003206735130814262
+  },
+  {
+    "prediction": {
+      "lat": 40.0278,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032250400064851303
+  },
+  {
+    "prediction": {
+      "lat": 40.0328,
+      "lon": -75.042,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003972137339261976
+  },
+  {
+    "prediction": {
+      "lat": 40.0288,
+      "lon": -75.032,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031461436778166523
+  },
+  {
+    "prediction": {
+      "lat": 40.0288,
+      "lon": -75.031,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003018643288517241
+  },
+  {
+    "prediction": {
+      "lat": 40.0268,
+      "lon": -75.181,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0015926196555737444
+  },
+  {
+    "prediction": {
+      "lat": 40.0278,
+      "lon": -75.18,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0015188209623681133
+  },
+  {
+    "prediction": {
+      "lat": 40.0268,
+      "lon": -75.179,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0015313458923938744
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.117,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027613917771375416
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.104,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016889325241245612
+  },
+  {
+    "prediction": {
+      "lat": 40.0278,
+      "lon": -75.081,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035465218557207004
+  },
+  {
+    "prediction": {
+      "lat": 40.0278,
+      "lon": -75.08,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003592270549397535
+  },
+  {
+    "prediction": {
+      "lat": 40.0268,
+      "lon": -75.077,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003696091942178338
+  },
+  {
+    "prediction": {
+      "lat": 40.0258,
+      "lon": -75.076,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003724725870363178
+  },
+  {
+    "prediction": {
+      "lat": 40.0288,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031454844808126562
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.035,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003719150227848051
+  },
+  {
+    "prediction": {
+      "lat": 40.0298,
+      "lon": -75.034,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003504576249534602
+  },
+  {
+    "prediction": {
+      "lat": 40.0298,
+      "lon": -75.03,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003003958592771199
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.125,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002921670228145087
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.115,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025964443385730314
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.084,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028306387163253405
+  },
+  {
+    "prediction": {
+      "lat": 40.0288,
+      "lon": -75.08,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034882589508002065
+  },
+  {
+    "prediction": {
+      "lat": 40.0278,
+      "lon": -75.078,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036245155449274886
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030368048855795586
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031645424833120677
+  },
+  {
+    "prediction": {
+      "lat": 40.0328,
+      "lon": -75.04,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004041330763853536
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.032,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034097598345194484
+  },
+  {
+    "prediction": {
+      "lat": 40.0308,
+      "lon": -75.03,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031114224282123254
+  },
+  {
+    "prediction": {
+      "lat": 40.0438,
+      "lon": -75.187,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011813416469826335
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.129,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002673561654735059
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.128,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002792609446078257
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00308244939848677
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.116,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026822075824708795
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.107,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0018832397718360773
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.105,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001726195341235575
+  },
+  {
+    "prediction": {
+      "lat": 40.0328,
+      "lon": -75.104,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0016800980857944094
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.085,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024397202074765726
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.084,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002515831870201282
+  },
+  {
+    "prediction": {
+      "lat": 40.0328,
+      "lon": -75.083,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002749984279246363
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029623222933280497
+  },
+  {
+    "prediction": {
+      "lat": 40.0328,
+      "lon": -75.057,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029951704202260667
+  },
+  {
+    "prediction": {
+      "lat": 40.0318,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003115877073862482
+  },
+  {
+    "prediction": {
+      "lat": 40.0358,
+      "lon": -75.044,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003907826120226342
+  },
+  {
+    "prediction": {
+      "lat": 40.0348,
+      "lon": -75.043,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0039845799425650376
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.04,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004096184932859992
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.036,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004031887833540833
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.032,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003617845815824505
+  },
+  {
+    "prediction": {
+      "lat": 40.0338,
+      "lon": -75.03,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0032894296152585264
+  },
+  {
+    "prediction": {
+      "lat": 40.0348,
+      "lon": -75.128,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028257987511177396
+  },
+  {
+    "prediction": {
+      "lat": 40.0358,
+      "lon": -75.125,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030998630448282887
+  },
+  {
+    "prediction": {
+      "lat": 40.0348,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031204481110555203
+  },
+  {
+    "prediction": {
+      "lat": 40.0328,
+      "lon": -75.058,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029355279069897175
+  },
+  {
+    "prediction": {
+      "lat": 40.0368,
+      "lon": -75.044,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003878714658934877
+  },
+  {
+    "prediction": {
+      "lat": 40.0368,
+      "lon": -75.04,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00408899379410643
+  },
+  {
+    "prediction": {
+      "lat": 40.0368,
+      "lon": -75.036,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004008070915871591
+  },
+  {
+    "prediction": {
+      "lat": 40.0368,
+      "lon": -75.032,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035675643850395958
+  },
+  {
+    "prediction": {
+      "lat": 40.0358,
+      "lon": -75.031,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0034528532452516854
+  },
+  {
+    "prediction": {
+      "lat": 40.0448,
+      "lon": -75.188,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001194880038744743
+  },
+  {
+    "prediction": {
+      "lat": 40.0448,
+      "lon": -75.186,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011958721751580367
+  },
+  {
+    "prediction": {
+      "lat": 40.0358,
+      "lon": -75.126,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030353551841295146
+  },
+  {
+    "prediction": {
+      "lat": 40.0428,
+      "lon": -75.121,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028308963554001666
+  },
+  {
+    "prediction": {
+      "lat": 40.0388,
+      "lon": -75.044,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003761529481002536
+  },
+  {
+    "prediction": {
+      "lat": 40.0388,
+      "lon": -75.04,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003948537390391316
+  },
+  {
+    "prediction": {
+      "lat": 40.0388,
+      "lon": -75.036,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0038439879797076922
+  },
+  {
+    "prediction": {
+      "lat": 40.0388,
+      "lon": -75.034,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036610554235600623
+  },
+  {
+    "prediction": {
+      "lat": 40.0438,
+      "lon": -75.125,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002710728767545562
+  },
+  {
+    "prediction": {
+      "lat": 40.0428,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028481977589863657
+  },
+  {
+    "prediction": {
+      "lat": 40.0448,
+      "lon": -75.12,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0025697393353861374
+  },
+  {
+    "prediction": {
+      "lat": 40.0398,
+      "lon": -75.043,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003740280199777129
+  },
+  {
+    "prediction": {
+      "lat": 40.0408,
+      "lon": -75.04,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003719424033246238
+  },
+  {
+    "prediction": {
+      "lat": 40.0408,
+      "lon": -75.038,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036895558567117265
+  },
+  {
+    "prediction": {
+      "lat": 40.0448,
+      "lon": -75.125,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026001984728282654
+  },
+  {
+    "prediction": {
+      "lat": 40.0448,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002635884633411023
+  },
+  {
+    "prediction": {
+      "lat": 40.0548,
+      "lon": -75.089,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00026476423330233466
+  },
+  {
+    "prediction": {
+      "lat": 40.0568,
+      "lon": -75.058,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002972688339500413
+  },
+  {
+    "prediction": {
+      "lat": 40.0538,
+      "lon": -75.053,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030506281287548
+  },
+  {
+    "prediction": {
+      "lat": 40.0408,
+      "lon": -75.041,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003707360514350951
+  },
+  {
+    "prediction": {
+      "lat": 40.0398,
+      "lon": -75.036,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003723449289536948
+  },
+  {
+    "prediction": {
+      "lat": 40.0378,
+      "lon": -75.033,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0036371828079605185
+  },
+  {
+    "prediction": {
+      "lat": 40.0458,
+      "lon": -75.188,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012180136543065228
+  },
+  {
+    "prediction": {
+      "lat": 40.0458,
+      "lon": -75.187,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012207573716463446
+  },
+  {
+    "prediction": {
+      "lat": 40.0608,
+      "lon": -75.166,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0006586218300314607
+  },
+  {
+    "prediction": {
+      "lat": 40.0608,
+      "lon": -75.165,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0006446226810708661
+  },
+  {
+    "prediction": {
+      "lat": 40.0478,
+      "lon": -75.125,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0022144704587103497
+  },
+  {
+    "prediction": {
+      "lat": 40.0478,
+      "lon": -75.124,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002245282728578973
+  },
+  {
+    "prediction": {
+      "lat": 40.0468,
+      "lon": -75.121,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0023627673542029265
+  },
+  {
+    "prediction": {
+      "lat": 40.0458,
+      "lon": -75.12,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0024480912611867995
+  },
+  {
+    "prediction": {
+      "lat": 40.0558,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030816448665858965
+  },
+  {
+    "prediction": {
+      "lat": 40.0538,
+      "lon": -75.052,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003036323509925947
+  },
+  {
+    "prediction": {
+      "lat": 40.0478,
+      "lon": -75.122,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002250396661586546
+  },
+  {
+    "prediction": {
+      "lat": 40.0578,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028930792443143385
+  },
+  {
+    "prediction": {
+      "lat": 40.0548,
+      "lon": -75.051,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030289298642565557
+  },
+  {
+    "prediction": {
+      "lat": 40.0588,
+      "lon": -75.191,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0013028300826660147
+  },
+  {
+    "prediction": {
+      "lat": 40.0588,
+      "lon": -75.19,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0013158259742722992
+  },
+  {
+    "prediction": {
+      "lat": 40.0548,
+      "lon": -75.054,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030972057022040397
+  },
+  {
+    "prediction": {
+      "lat": 40.0598,
+      "lon": -75.189,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012880921149025152
+  },
+  {
+    "prediction": {
+      "lat": 40.0618,
+      "lon": -75.164,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0006248880359607479
+  },
+  {
+    "prediction": {
+      "lat": 40.0598,
+      "lon": -75.06,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027666956808468425
+  },
+  {
+    "prediction": {
+      "lat": 40.0558,
+      "lon": -75.052,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031006694524500986
+  },
+  {
+    "prediction": {
+      "lat": 40.0558,
+      "lon": -75.051,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030472376276798495
+  },
+  {
+    "prediction": {
+      "lat": 40.0598,
+      "lon": -75.192,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012525747845490891
+  },
+  {
+    "prediction": {
+      "lat": 40.0588,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031377087398372426
+  },
+  {
+    "prediction": {
+      "lat": 40.0588,
+      "lon": -75.052,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003096181119593517
+  },
+  {
+    "prediction": {
+      "lat": 40.0578,
+      "lon": -75.051,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030465198989038677
+  },
+  {
+    "prediction": {
+      "lat": 40.0608,
+      "lon": -75.192,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001218986604849019
+  },
+  {
+    "prediction": {
+      "lat": 40.0608,
+      "lon": -75.19,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0012509612894587106
+  },
+  {
+    "prediction": {
+      "lat": 40.0618,
+      "lon": -75.166,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0006543084661614592
+  },
+  {
+    "prediction": {
+      "lat": 40.0608,
+      "lon": -75.06,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.002735165393974727
+  },
+  {
+    "prediction": {
+      "lat": 40.0618,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0030059572406097917
+  },
+  {
+    "prediction": {
+      "lat": 40.0618,
+      "lon": -75.052,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0029280607890294153
+  },
+  {
+    "prediction": {
+      "lat": 40.0618,
+      "lon": -75.191,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011980719946561734
+  },
+  {
+    "prediction": {
+      "lat": 40.0618,
+      "lon": -75.059,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027970065544338217
+  },
+  {
+    "prediction": {
+      "lat": 40.0628,
+      "lon": -75.058,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028097764400809694
+  },
+  {
+    "prediction": {
+      "lat": 40.0638,
+      "lon": -75.056,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0028115890421674724
+  },
+  {
+    "prediction": {
+      "lat": 40.0638,
+      "lon": -75.052,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027221285740272787
+  },
+  {
+    "prediction": {
+      "lat": 40.0638,
+      "lon": -75.057,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0027723653059293705
+  },
+  {
+    "prediction": {
+      "lat": 40.0648,
+      "lon": -75.055,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026989652158528224
+  },
+  {
+    "prediction": {
+      "lat": 40.0648,
+      "lon": -75.053,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0026523287081547443
+  },
+  {
+    "prediction": {
+      "lat": 40.0858,
+      "lon": -74.968,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011278482786514176
+  },
+  {
+    "prediction": {
+      "lat": 40.0868,
+      "lon": -74.969,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001129105336730176
+  },
+  {
+    "prediction": {
+      "lat": 40.0858,
+      "lon": -74.966,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011222417457945179
+  },
+  {
+    "prediction": {
+      "lat": 40.0868,
+      "lon": -74.968,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011428861996775133
+  },
+  {
+    "prediction": {
+      "lat": 40.0868,
+      "lon": -74.965,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011178405704920851
+  },
+  {
+    "prediction": {
+      "lat": 40.0898,
+      "lon": -74.969,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001108399760166961
+  },
+  {
+    "prediction": {
+      "lat": 40.0898,
+      "lon": -74.968,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0011218708506738819
+  },
+  {
+    "prediction": {
+      "lat": 40.0898,
+      "lon": -74.965,
+      "type": "property"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0010971349939288759
+  },
+  {
+    "prediction": {
+      "lat": 39.9178,
+      "lon": -75.165,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005335800541935375
+  },
+  {
+    "prediction": {
+      "lat": 39.9178,
+      "lon": -75.164,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005341815692893794
+  },
+  {
+    "prediction": {
+      "lat": 39.9178,
+      "lon": -75.161,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0050709625368725655
+  },
+  {
+    "prediction": {
+      "lat": 39.9188,
+      "lon": -75.167,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005241343546974158
+  },
+  {
+    "prediction": {
+      "lat": 39.9198,
+      "lon": -75.168,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0051079499764588145
+  },
+  {
+    "prediction": {
+      "lat": 39.9188,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00494460193056088
+  },
+  {
+    "prediction": {
+      "lat": 39.9188,
+      "lon": -75.164,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0054026201057350105
+  },
+  {
+    "prediction": {
+      "lat": 39.9328,
+      "lon": -75.192,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0014273533231184256
+  },
+  {
+    "prediction": {
+      "lat": 39.9218,
+      "lon": -75.168,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004989051687545228
+  },
+  {
+    "prediction": {
+      "lat": 39.9208,
+      "lon": -75.164,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005368323789633099
+  },
+  {
+    "prediction": {
+      "lat": 39.9198,
+      "lon": -75.161,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005131576076184113
+  },
+  {
+    "prediction": {
+      "lat": 39.9218,
+      "lon": -75.166,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005223777713286494
+  },
+  {
+    "prediction": {
+      "lat": 39.9418,
+      "lon": -75.22,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.006714342155265505
+  },
+  {
+    "prediction": {
+      "lat": 39.9418,
+      "lon": -75.219,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00667513998434496
+  },
+  {
+    "prediction": {
+      "lat": 39.9338,
+      "lon": -75.193,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.001526859284834319
+  },
+  {
+    "prediction": {
+      "lat": 39.9438,
+      "lon": -75.221,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0071290942540556184
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.236,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0038807985063815625
+  },
+  {
+    "prediction": {
+      "lat": 39.9428,
+      "lon": -75.218,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.006832519485745738
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.161,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0075995020681078615
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.237,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003612743460510966
+  },
+  {
+    "prediction": {
+      "lat": 39.9458,
+      "lon": -75.222,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007255965964976902
+  },
+  {
+    "prediction": {
+      "lat": 39.9438,
+      "lon": -75.22,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007134495473219564
+  },
+  {
+    "prediction": {
+      "lat": 39.9438,
+      "lon": -75.218,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007017516747410074
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.201,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005295120172382567
+  },
+  {
+    "prediction": {
+      "lat": 39.9478,
+      "lon": -75.223,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007083305766469771
+  },
+  {
+    "prediction": {
+      "lat": 39.9468,
+      "lon": -75.22,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0073097466941471215
+  },
+  {
+    "prediction": {
+      "lat": 39.9458,
+      "lon": -75.218,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007211916503215428
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.199,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005053369977342205
+  },
+  {
+    "prediction": {
+      "lat": 39.9548,
+      "lon": -75.162,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007970417624354775
+  },
+  {
+    "prediction": {
+      "lat": 39.9548,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008244470348979972
+  },
+  {
+    "prediction": {
+      "lat": 39.9498,
+      "lon": -75.237,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0035619612139737127
+  },
+  {
+    "prediction": {
+      "lat": 39.9498,
+      "lon": -75.236,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0038209919875620774
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.223,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0069485372963521445
+  },
+  {
+    "prediction": {
+      "lat": 39.9488,
+      "lon": -75.221,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007090307744595087
+  },
+  {
+    "prediction": {
+      "lat": 39.9478,
+      "lon": -75.22,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007239982610213594
+  },
+  {
+    "prediction": {
+      "lat": 39.9538,
+      "lon": -75.2,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005187182046363544
+  },
+  {
+    "prediction": {
+      "lat": 39.9598,
+      "lon": -75.156,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00998695301245484
+  },
+  {
+    "prediction": {
+      "lat": 39.9608,
+      "lon": -75.155,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009894404194232076
+  },
+  {
+    "prediction": {
+      "lat": 39.9558,
+      "lon": -75.202,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005259199802420715
+  },
+  {
+    "prediction": {
+      "lat": 39.9548,
+      "lon": -75.2,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005169338892865011
+  },
+  {
+    "prediction": {
+      "lat": 39.9548,
+      "lon": -75.199,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0050433043465380354
+  },
+  {
+    "prediction": {
+      "lat": 39.9578,
+      "lon": -75.202,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004978896466090634
+  },
+  {
+    "prediction": {
+      "lat": 39.9578,
+      "lon": -75.2,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00487063028264629
+  },
+  {
+    "prediction": {
+      "lat": 39.9568,
+      "lon": -75.199,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004901191872621744
+  },
+  {
+    "prediction": {
+      "lat": 39.9558,
+      "lon": -75.162,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0084779193928393
+  },
+  {
+    "prediction": {
+      "lat": 39.9598,
+      "lon": -75.159,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010455212513957363
+  },
+  {
+    "prediction": {
+      "lat": 39.9588,
+      "lon": -75.158,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.01006591213258579
+  },
+  {
+    "prediction": {
+      "lat": 39.9658,
+      "lon": -75.163,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010262879624853803
+  },
+  {
+    "prediction": {
+      "lat": 39.9648,
+      "lon": -75.161,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010864746643015974
+  },
+  {
+    "prediction": {
+      "lat": 39.9608,
+      "lon": -75.159,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010714710234729198
+  },
+  {
+    "prediction": {
+      "lat": 39.9608,
+      "lon": -75.156,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.01023297145353609
+  },
+  {
+    "prediction": {
+      "lat": 39.9678,
+      "lon": -75.164,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009574288216261351
+  },
+  {
+    "prediction": {
+      "lat": 39.9638,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.011021052881931186
+  },
+  {
+    "prediction": {
+      "lat": 39.9638,
+      "lon": -75.156,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010542733897441316
+  },
+  {
+    "prediction": {
+      "lat": 39.9638,
+      "lon": -75.155,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.01019392146546818
+  },
+  {
+    "prediction": {
+      "lat": 39.9788,
+      "lon": -75.176,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0031952219658635665
+  },
+  {
+    "prediction": {
+      "lat": 39.9668,
+      "lon": -75.163,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.01011777127319589
+  },
+  {
+    "prediction": {
+      "lat": 39.9668,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010716390177439328
+  },
+  {
+    "prediction": {
+      "lat": 39.9658,
+      "lon": -75.157,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010660924143729671
+  },
+  {
+    "prediction": {
+      "lat": 39.9648,
+      "lon": -75.156,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010504534218867037
+  },
+  {
+    "prediction": {
+      "lat": 39.9688,
+      "lon": -75.163,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009684490699822069
+  },
+  {
+    "prediction": {
+      "lat": 39.9688,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010236788836496317
+  },
+  {
+    "prediction": {
+      "lat": 39.9678,
+      "lon": -75.159,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010515902396728826
+  },
+  {
+    "prediction": {
+      "lat": 39.9788,
+      "lon": -75.175,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.003497539325365247
+  },
+  {
+    "prediction": {
+      "lat": 39.9668,
+      "lon": -75.158,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0106622430361367
+  },
+  {
+    "prediction": {
+      "lat": 39.9888,
+      "lon": -75.151,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.011454914806896106
+  },
+  {
+    "prediction": {
+      "lat": 39.9898,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009486045930055857
+  },
+  {
+    "prediction": {
+      "lat": 39.9888,
+      "lon": -75.153,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.01127059068822638
+  },
+  {
+    "prediction": {
+      "lat": 39.9888,
+      "lon": -75.152,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.011385750965852861
+  },
+  {
+    "prediction": {
+      "lat": 39.9928,
+      "lon": -75.142,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.012022354228842451
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.132,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007836293925919495
+  },
+  {
+    "prediction": {
+      "lat": 39.9908,
+      "lon": -75.17,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005087809860560247
+  },
+  {
+    "prediction": {
+      "lat": 39.9908,
+      "lon": -75.169,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005506809330426399
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.133,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008386743572788891
+  },
+  {
+    "prediction": {
+      "lat": 39.9908,
+      "lon": -75.161,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009144713570343058
+  },
+  {
+    "prediction": {
+      "lat": 39.9898,
+      "lon": -75.155,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.011183913534190522
+  },
+  {
+    "prediction": {
+      "lat": 39.9908,
+      "lon": -75.15,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.012269078358874311
+  },
+  {
+    "prediction": {
+      "lat": 39.9928,
+      "lon": -75.144,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.012516557066674192
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.169,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.005439888096988736
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00963873795691738
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.156,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.011264403474605146
+  },
+  {
+    "prediction": {
+      "lat": 39.9908,
+      "lon": -75.152,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.012067876412821381
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.149,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.012634317646406133
+  },
+  {
+    "prediction": {
+      "lat": 39.9928,
+      "lon": -75.16,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009647120876630229
+  },
+  {
+    "prediction": {
+      "lat": 39.9928,
+      "lon": -75.157,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010972873103901215
+  },
+  {
+    "prediction": {
+      "lat": 39.9918,
+      "lon": -75.154,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.01188249399297886
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.148,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.013162516600823473
+  },
+  {
+    "prediction": {
+      "lat": 39.9948,
+      "lon": -75.144,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.013046275247037895
+  },
+  {
+    "prediction": {
+      "lat": 39.9938,
+      "lon": -75.141,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.012040786307230987
+  },
+  {
+    "prediction": {
+      "lat": 39.9948,
+      "lon": -75.134,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009168492715452978
+  },
+  {
+    "prediction": {
+      "lat": 39.9948,
+      "lon": -75.132,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008054303120313822
+  },
+  {
+    "prediction": {
+      "lat": 39.9948,
+      "lon": -75.147,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.013333891780438336
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.146,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.013415783496031307
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.144,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.013200743080193606
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.143,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.013012898611085306
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.134,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.00934983015185586
+  },
+  {
+    "prediction": {
+      "lat": 39.9958,
+      "lon": -75.132,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008217958464035197
+  },
+  {
+    "prediction": {
+      "lat": 40.0028,
+      "lon": -75.138,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010741521186142603
+  },
+  {
+    "prediction": {
+      "lat": 40.0098,
+      "lon": -75.155,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007493041506049115
+  },
+  {
+    "prediction": {
+      "lat": 40.0078,
+      "lon": -75.151,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009613213500414
+  },
+  {
+    "prediction": {
+      "lat": 40.0078,
+      "lon": -75.148,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010114050860757473
+  },
+  {
+    "prediction": {
+      "lat": 40.0038,
+      "lon": -75.139,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010775369908962882
+  },
+  {
+    "prediction": {
+      "lat": 40.0038,
+      "lon": -75.137,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009988956197684423
+  },
+  {
+    "prediction": {
+      "lat": 40.0048,
+      "lon": -75.136,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009174120734366275
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.153,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008603595889150937
+  },
+  {
+    "prediction": {
+      "lat": 40.0048,
+      "lon": -75.139,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.010378879994477582
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.136,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008766617115282312
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.084,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004884917738278652
+  },
+  {
+    "prediction": {
+      "lat": 40.0178,
+      "lon": -75.081,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004771947057243604
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.152,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008894873634537741
+  },
+  {
+    "prediction": {
+      "lat": 40.0088,
+      "lon": -75.148,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009603404928040316
+  },
+  {
+    "prediction": {
+      "lat": 40.0058,
+      "lon": -75.138,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.009582648237069414
+  },
+  {
+    "prediction": {
+      "lat": 40.0188,
+      "lon": -75.086,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004802995592340778
+  },
+  {
+    "prediction": {
+      "lat": 40.0108,
+      "lon": -75.155,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007070276000886019
+  },
+  {
+    "prediction": {
+      "lat": 40.0108,
+      "lon": -75.152,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.007944551605453024
+  },
+  {
+    "prediction": {
+      "lat": 40.0098,
+      "lon": -75.149,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0089829224859664
+  },
+  {
+    "prediction": {
+      "lat": 40.0108,
+      "lon": -75.151,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.008158181784579
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.086,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004831274987784528
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.084,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.0049920374845646
+  },
+  {
+    "prediction": {
+      "lat": 40.0198,
+      "lon": -75.081,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004877512762474334
+  },
+  {
+    "prediction": {
+      "lat": 40.0208,
+      "lon": -75.085,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004915483636028598
+  },
+  {
+    "prediction": {
+      "lat": 40.0218,
+      "lon": -75.083,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004914852456610852
+  },
+  {
+    "prediction": {
+      "lat": 40.0218,
+      "lon": -75.082,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004877304528754218
+  },
+  {
+    "prediction": {
+      "lat": 40.0208,
+      "lon": -75.081,
+      "type": "violent"
+    },
+    "modelUpdateAt": "2024-05-28T00:00:00",
+    "createdAt": "2024-05-30T00:00:00",
+    "predictionStartTime": "2024-06-15T00:00:00",
+    "predictionEndTime": "2024-06-16T00:00:00",
+    "probability": 0.004859143518565351
+  }
+]

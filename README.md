@@ -1,2 +1,2 @@
 # overwatch
-collaboration  citizen+paraknowledge
+collaboration with paraknowledge
